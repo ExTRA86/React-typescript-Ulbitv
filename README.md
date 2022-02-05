@@ -1,3 +1,3 @@
 React TypeScript
 
-Обучающий проект от UniTV
+Обучающий проект от UlbiTV
